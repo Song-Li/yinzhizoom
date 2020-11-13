@@ -1,1 +1,2 @@
-# yinzhizoom
+# zoom
+zoom redirect
